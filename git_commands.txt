@@ -1,0 +1,25 @@
+20  clear
+   21  git status
+   22  git add Mahesh.py
+   23  ls
+   24  ls
+   25  clear
+   26  python -u "c:\Documents\github-for-devops-workshop\.git\Mahesh.py"
+   27  ls
+   28  dir
+   29  git status
+   30  git add Mahesh.py
+   31  pwd
+   32  ls
+   33  ls
+   34  -l
+   35  dir
+   36  ls
+   37  git add Mahesh.py
+   38  git status
+   39  git commit -m "added Mahesh files"       
+   40  git status
+   41  rm Mahesh.py
+   42  ls
+   43  git status
+   44  git restore Mahesh.py
